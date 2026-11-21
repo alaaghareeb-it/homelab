@@ -5,7 +5,7 @@ Hands-on labs I built to practice IT support, networking, and security monitorin
 | # | Lab | Skills | Status |
 |---|---|---|---|
 | 01 | [Wireshark Traffic Analysis](01-wireshark/) | DNS, TCP handshake, TLS, display filters | DNS and TCP done; DHCP next |
-| 02 | Active Directory Lab | Windows Server, AD DS, OUs, users, GPO | Planned |
-| 03 | Brute-Force Detection in Event Viewer | Event IDs 4625, 4624, 4740, incident report | Planned |
+| 02 | [Active Directory & Account Lockout](02-active-directory/) | Windows Server 2022, AD DS, DNS, OUs, users, groups, GPO, Event IDs 4740/4625 | Done |
+| 03 | Help Desk Break & Fix | DNS, print spooler, disk space, startup apps | Planned |
 
 **Author:** Alaa Ghareeb, Information Security graduate
